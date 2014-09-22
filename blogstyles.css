@@ -16,6 +16,7 @@ body {
 	padding: 0px 20px 0px 30px;
 	width: 700px;
 	float: left;
+	border-right: 1px solid gray;
 }
 .content img {
 	max-width: 100%;
@@ -29,6 +30,11 @@ body {
 	font-weight: 700; 
 	font-size: 19px;
 	color: #83560f;
+}
+.content .caption {
+	font-size: 14px;
+	font-style: italic;
+	margin: -10px 0px 0px 0px;
 }
 .sidebar {
 	float: left;
