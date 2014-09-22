@@ -1,29 +1,37 @@
+body {
+    background-color: #eddcc1;
+}
 .header {
 	font-family: 'Raleway', sans-serif; 
 	font-weight: 700; 
-	font-size: 36px;
-	padding: 10px
+	font-size: 24px;
+	padding: 10px 0px 0px 20px;
+	color: #83560f;
 }
 .content {
 	font-family: 'Raleway', sans-serif; 
 	font-weight: 400; 
 	font-size: 18px; 
 	line-height: 24px;
-	padding: 10px;
+	padding: 0px 0px 0px 20px;
 }
+.content img {
+	max-width: 100%;
+}
+
 .postdate {
 	font-family: 'Raleway', sans-serif; 
 	font-weight: 400; 
 	font-size: 14px; 
 	line-height: 18px;
-	padding: 10px;
+	padding: 0px 0px 0px 20px;
 }
 .sidebar {
 	font-family: 'Raleway', sans-serif; 
 	font-weight: 400; 
 	font-size: 18px; 
 	line-height: 24px;
-	padding: 10px;
+	padding: 0px 0px 0px 20px;
 	font-style: italic
 }
 .footer {
@@ -31,6 +39,6 @@
 	font-weight: 700; 
 	font-size: 14px; 
 	line-height: 18px;
-	padding: 10px;
+	padding: 0px 0px 0px 20px;
 }
 
