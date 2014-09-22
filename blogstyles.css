@@ -21,17 +21,22 @@ body {
 .content img {
 	max-width: 100%;
 }
-.content .postdate {
-	font-weight: 700; 
-	font-size: 14px; 
-	line-height: 18px;
-}
 .content .header {
 	font-weight: 700; 
 	font-size: 19px;
 	color: #83560f;
 }
+.content .postdate {
+	font-weight: 700; 
+	font-size: 14px; 
+	line-height: 18px;
+}
 .content .caption {
+	font-size: 14px;
+	font-style: italic;
+	margin: -10px 0px 0px 0px;
+}
+.content .tags {
 	font-size: 14px;
 	font-style: italic;
 	margin: -10px 0px 0px 0px;
