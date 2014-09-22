@@ -1,0 +1,36 @@
+.header {
+	font-family: 'Raleway', sans-serif; 
+	font-weight: 700; 
+	font-size: 36px;
+	padding: 10px
+}
+.content {
+	font-family: 'Raleway', sans-serif; 
+	font-weight: 400; 
+	font-size: 18px; 
+	line-height: 24px;
+	padding: 10px;
+}
+.postdate {
+	font-family: 'Raleway', sans-serif; 
+	font-weight: 400; 
+	font-size: 14px; 
+	line-height: 18px;
+	padding: 10px;
+}
+.sidebar {
+	font-family: 'Raleway', sans-serif; 
+	font-weight: 400; 
+	font-size: 18px; 
+	line-height: 24px;
+	padding: 10px;
+	font-style: italic
+}
+.footer {
+	font-family: 'Raleway', sans-serif; 
+	font-weight: 700; 
+	font-size: 14px; 
+	line-height: 18px;
+	padding: 10px;
+}
+
