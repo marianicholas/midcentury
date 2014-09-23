@@ -60,6 +60,17 @@ ul {
    	border: 1px solid #cccccc;
 }
 
+.content .dropcap {
+	float: left; 
+	color: #903; 
+	font-size: 75px; 
+	line-height: 60px; 
+	padding-top: 4px; 
+	padding-right: 8px; 
+	padding-left: 3px; 
+	font-family: "Raleway";
+}
+
 .content .insetimage {
    	float: left;
    	margin-right: 20px;
@@ -73,7 +84,7 @@ ul {
 
 .content .postdate {
 	font-weight: 700; 
-	font-size: 14px; 
+	font-size: 16px; 
 	line-height: 18px;
 }
 
