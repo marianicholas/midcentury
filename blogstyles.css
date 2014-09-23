@@ -58,6 +58,12 @@ body {
 	line-height: 28px;
 	padding: 0px 0px 0px 20px;
 }
+.sidebar .categories {
+	font-size: 16px; 
+	line-height: 24px;
+}
+
+
 .footer {
 	font-family: 'Raleway', sans-serif; 
 	font-weight: 700; 
@@ -65,4 +71,7 @@ body {
 	line-height: 18px;
 	padding: 50px 0px 0px 30px;
 	clear: both;
+}
+.footer .address {
+	font-weight: 400; 
 }
